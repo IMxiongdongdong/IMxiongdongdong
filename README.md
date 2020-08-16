@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working at a company which has no relationship with programing, so it's just my own interest.
+- 🔭 I’m currently working at a company which has no relationship with programming, so it's just my own interest.
 - 🌱 I’m learning about Python, cause it's easier for me compare with C++.
-- 📫 Welcome talking with me about programing.
+- 📫 Welcome talking with me about programming.
 <!--
 **IMxiongdongdong/IMxiongdongdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
